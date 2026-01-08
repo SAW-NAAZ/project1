@@ -1,2 +1,4 @@
 This is a demo for Git commands 
-editing 
+editing
+one more commnad added 
+ 
